@@ -1,4 +1,8 @@
-﻿onSelfEvent (load) {
+//copyright mohammad reza baghbani 
+//https://github.com/baghban71
+//https://www.instagram.com/mrbaghbani92/
+
+onSelfEvent (load) {
     x = 0;
     y =0;
     i=0;
